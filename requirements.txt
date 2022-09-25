@@ -1,0 +1,15 @@
+tensorflow
+dvc
+pandas
+numpy
+seaborn
+matplotlib
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+
+
+
+-e .
