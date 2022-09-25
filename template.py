@@ -21,7 +21,7 @@ list_of_files = [
     "params.yaml",
     "init_setup.sh",
     "requirements.txt",
-    "requirements_dev.tst",
+    "requirements_dev.txt",
     "setup.py",
      "setup.cfg",
      "pyproject.toml",# This file for creating packages
